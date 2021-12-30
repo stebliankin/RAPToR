@@ -11,7 +11,7 @@ where each raw is a sample and each column is a random variable;
 * <b>3-writeStyle</b> - apply syling rules to the learned causal structure and transform it to the xgmml format;
 * <b>4-ComputeCorrelations</b> - compute Spearman correlation between variables connected with an arc.
 
-<img src="https://github.com/stebliankin/RAPToR/blob/master/images/restrictions.png" width=400>
+<img src="https://github.com/stebliankin/RAPToR/blob/main/images/restrictions.png?raw=true" width=400>
 
 ### Output
 * <i>blacklist.csv</i> - list of restricted edges;
